@@ -1,1 +1,2 @@
 includes: ['layer:apache-php', 'interface:mysql']
+repo: https://github.com/juju-solutions/layer-vanilla.git
