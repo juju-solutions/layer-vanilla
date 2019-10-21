@@ -6,6 +6,8 @@ description: |
   This charm deploys Vanilla Forums as outlined by the Vanilla Forums installation guide.
 tags:
   - social
+series:
+  - bionic
 requires:
   database:
     interface: mysql
