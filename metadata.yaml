@@ -11,3 +11,5 @@ series:
 requires:
   database:
     interface: mysql
+series:
+  - bionic
